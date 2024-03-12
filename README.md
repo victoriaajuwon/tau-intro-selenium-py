@@ -1,12 +1,10 @@
 # tau-intro-selenium-py
-This repository contains the companion project for the
+This repository contains the code written while taking the
 *Introduction to Selenium WebDriver with Python* course
 taught by [Andrew "Pandy" Knight](https://twitter.com/AutomationPanda)
 on [Test Automation University](https://testautomationu.applitools.com/).
-During the course, you will build a basic Web UI test automation solution using Python and Selenium WebDriver.
-Each chapter will add a new layer to the solution.
-Follow the instructions in this README to code the solution as you take each chapter.
-If you get stuck, refer to the example code in this repository for help.
+During the course, I built a basic Web UI test automation solution using Python and Selenium WebDriver.
+
 
 # Setup Instructions
 
@@ -24,8 +22,6 @@ You should also have a Python editor/IDE of your choice.
 Good choices include [PyCharm](https://www.jetbrains.com/pycharm/)
 and [Visual Studio Code](https://code.visualstudio.com/docs/languages/python).
 
-You will also need [Git](https://git-scm.com/) to copy this project code.
-If you are new to Git, [try learning the basics](https://try.github.io/).
 
 ## WebDriver Setup
 
@@ -1152,11 +1148,6 @@ If you get stuck, ask for help.
 
 ## Additional Resources
 
-This Test Automation University course is based on several other tutorials by Andrew Knight:
-
-* DjangoCon 2019: [Hands-On Web UI Testing](https://github.com/AndyLPK247/djangocon-2019-web-ui-testing)
-* PyOhio 2019: [Hands-On Web UI Testing](https://github.com/AndyLPK247/pyohio-2019-web-ui-testing)
-* TestProject: [Web Testing Made Easy with Python, Pytest and Selenium WebDriver](https://blog.testproject.io/2019/07/09/open-source-test-automation-python-pytest-selenium-webdriver/)
 
 Related TAU courses:
 
